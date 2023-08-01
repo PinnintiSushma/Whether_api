@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+.box h1{
+    font-size: 30px;
+    text-align: center;
+}
+.box{
+    display: block;
+    padding: 20px 26px;
+    width: 390px;
+    height: 470px;
+    background-color: azure;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 100px auto;
+    color: #777;
+}
+span{
+    color: rgb(57, 108, 170);
+}
+.box .element{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.box input{
+    background-color: #ebe9e9;
+    border:0.7px solid #ddd;
+    width: 100%;
+    padding: 15px;
+    font-size: 16px;
+    outline: none;
+}
+img{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 200px;
+    height: 140px;
+}
